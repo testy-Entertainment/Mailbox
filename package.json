@@ -1,8 +1,8 @@
 {
-  "name": "mailspring-root",
+  "name": "Mailbox-root",
   "version": "0.0.1",
   "description": "Packages required to develop and build Mailspring",
-  "author": "Mailspring",
+  "author": "testy Entertainment",
   "license": "GPL-3.0",
   "repository": {
     "type": "git",
